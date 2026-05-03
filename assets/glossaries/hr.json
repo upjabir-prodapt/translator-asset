@@ -1,0 +1,539 @@
+{
+  "domain": "hr",
+  "glossary": {
+    "English": {
+      "terms": [
+        {
+          "source_term": "employment contract",
+          "context": "HR documentation",
+          "translations": {
+            "Spanish": "contrato de trabajo",
+            "French": "contrat de travail",
+            "Italian": "contratto di lavoro",
+            "Japanese": "雇用契約",
+            "German": "Arbeitsvertrag"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "performance review",
+          "context": "HR processes",
+          "translations": {
+            "Spanish": "evaluación de desempeño",
+            "French": "évaluation des performances",
+            "Italian": "valutazione delle prestazioni",
+            "Japanese": "業績評価",
+            "German": "Leistungsbeurteilung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "redundancy",
+          "context": "HR, UK employment law",
+          "translations": {
+            "Spanish": "despido por causas objetivas",
+            "French": "licenciement économique",
+            "Italian": "licenziamento per riduzione del personale",
+            "Japanese": "整理解雇",
+            "German": "betriebsbedingte Kündigung"
+          },
+          "usage_notes": "UK-specific term; use jurisdiction-appropriate translation"
+        },
+        {
+          "source_term": "notice period",
+          "context": "Employment terms",
+          "translations": {
+            "Spanish": "período de preaviso",
+            "French": "préavis",
+            "Italian": "periodo di preavviso",
+            "Japanese": "予告期間",
+            "German": "Kündigungsfrist"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "maternity leave",
+          "context": "HR, employment benefits",
+          "translations": {
+            "Spanish": "baja por maternidad",
+            "French": "congé maternité",
+            "Italian": "congedo di maternità",
+            "Japanese": "産休",
+            "German": "Mutterschaftsurlaub"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "disciplinary procedure",
+          "context": "HR processes",
+          "translations": {
+            "Spanish": "procedimiento disciplinario",
+            "French": "procédure disciplinaire",
+            "Italian": "procedura disciplinare",
+            "Japanese": "懲戒手続き",
+            "German": "Disziplinarverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "grievance",
+          "context": "HR, employment law",
+          "translations": {
+            "Spanish": "reclamación laboral",
+            "French": "grief",
+            "Italian": "reclamo",
+            "Japanese": "苦情申し立て",
+            "German": "Beschwerde"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    },
+    "Spanish": {
+      "terms": [
+        {
+          "source_term": "contrato de trabajo",
+          "context": "Documentación de RRHH",
+          "translations": {
+            "English": "employment contract",
+            "French": "contrat de travail",
+            "Italian": "contratto di lavoro",
+            "Japanese": "雇用契約",
+            "German": "Arbeitsvertrag"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "evaluación de desempeño",
+          "context": "Procesos de RRHH",
+          "translations": {
+            "English": "performance review",
+            "French": "évaluation des performances",
+            "Italian": "valutazione delle prestazioni",
+            "Japanese": "業績評価",
+            "German": "Leistungsbeurteilung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "despido por causas objetivas",
+          "context": "RRHH, derecho laboral",
+          "translations": {
+            "English": "redundancy",
+            "French": "licenciement économique",
+            "Italian": "licenziamento per riduzione del personale",
+            "Japanese": "整理解雇",
+            "German": "betriebsbedingte Kündigung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "período de preaviso",
+          "context": "Condiciones de empleo",
+          "translations": {
+            "English": "notice period",
+            "French": "préavis",
+            "Italian": "periodo di preavviso",
+            "Japanese": "予告期間",
+            "German": "Kündigungsfrist"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "baja por maternidad",
+          "context": "RRHH, beneficios laborales",
+          "translations": {
+            "English": "maternity leave",
+            "French": "congé maternité",
+            "Italian": "congedo di maternità",
+            "Japanese": "産休",
+            "German": "Mutterschaftsurlaub"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "procedimiento disciplinario",
+          "context": "Procesos de RRHH",
+          "translations": {
+            "English": "disciplinary procedure",
+            "French": "procédure disciplinaire",
+            "Italian": "procedura disciplinare",
+            "Japanese": "懲戒手続き",
+            "German": "Disziplinarverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "reclamación laboral",
+          "context": "RRHH, derecho laboral",
+          "translations": {
+            "English": "grievance",
+            "French": "grief",
+            "Italian": "reclamo",
+            "Japanese": "苦情申し立て",
+            "German": "Beschwerde"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    },
+    "French": {
+      "terms": [
+        {
+          "source_term": "contrat de travail",
+          "context": "Documentation RH",
+          "translations": {
+            "English": "employment contract",
+            "Spanish": "contrato de trabajo",
+            "Italian": "contratto di lavoro",
+            "Japanese": "雇用契約",
+            "German": "Arbeitsvertrag"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "évaluation des performances",
+          "context": "Processus RH",
+          "translations": {
+            "English": "performance review",
+            "Spanish": "evaluación de desempeño",
+            "Italian": "valutazione delle prestazioni",
+            "Japanese": "業績評価",
+            "German": "Leistungsbeurteilung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "licenciement économique",
+          "context": "RH, droit du travail",
+          "translations": {
+            "English": "redundancy",
+            "Spanish": "despido por causas objetivas",
+            "Italian": "licenziamento per riduzione del personale",
+            "Japanese": "整理解雇",
+            "German": "betriebsbedingte Kündigung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "préavis",
+          "context": "Conditions d'emploi",
+          "translations": {
+            "English": "notice period",
+            "Spanish": "período de preaviso",
+            "Italian": "periodo di preavviso",
+            "Japanese": "予告期間",
+            "German": "Kündigungsfrist"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "congé maternité",
+          "context": "RH, avantages sociaux",
+          "translations": {
+            "English": "maternity leave",
+            "Spanish": "baja por maternidad",
+            "Italian": "congedo di maternità",
+            "Japanese": "産休",
+            "German": "Mutterschaftsurlaub"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "procédure disciplinaire",
+          "context": "Processus RH",
+          "translations": {
+            "English": "disciplinary procedure",
+            "Spanish": "procedimiento disciplinario",
+            "Italian": "procedura disciplinare",
+            "Japanese": "懲戒手続き",
+            "German": "Disziplinarverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "grief",
+          "context": "RH, droit du travail",
+          "translations": {
+            "English": "grievance",
+            "Spanish": "reclamación laboral",
+            "Italian": "reclamo",
+            "Japanese": "苦情申し立て",
+            "German": "Beschwerde"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    },
+    "Italian": {
+      "terms": [
+        {
+          "source_term": "contratto di lavoro",
+          "context": "Documentazione HR",
+          "translations": {
+            "English": "employment contract",
+            "Spanish": "contrato de trabajo",
+            "French": "contrat de travail",
+            "Japanese": "雇用契約",
+            "German": "Arbeitsvertrag"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "valutazione delle prestazioni",
+          "context": "Processi HR",
+          "translations": {
+            "English": "performance review",
+            "Spanish": "evaluación de desempeño",
+            "French": "évaluation des performances",
+            "Japanese": "業績評価",
+            "German": "Leistungsbeurteilung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "licenziamento per riduzione del personale",
+          "context": "HR, diritto del lavoro",
+          "translations": {
+            "English": "redundancy",
+            "Spanish": "despido por causas objetivas",
+            "French": "licenciement économique",
+            "Japanese": "整理解雇",
+            "German": "betriebsbedingte Kündigung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "periodo di preavviso",
+          "context": "Condizioni di impiego",
+          "translations": {
+            "English": "notice period",
+            "Spanish": "período de preaviso",
+            "French": "préavis",
+            "Japanese": "予告期間",
+            "German": "Kündigungsfrist"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "congedo di maternità",
+          "context": "HR, benefit aziendali",
+          "translations": {
+            "English": "maternity leave",
+            "Spanish": "baja por maternidad",
+            "French": "congé maternité",
+            "Japanese": "産休",
+            "German": "Mutterschaftsurlaub"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "procedura disciplinare",
+          "context": "Processi HR",
+          "translations": {
+            "English": "disciplinary procedure",
+            "Spanish": "procedimiento disciplinario",
+            "French": "procédure disciplinaire",
+            "Japanese": "懲戒手続き",
+            "German": "Disziplinarverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "reclamo",
+          "context": "HR, diritto del lavoro",
+          "translations": {
+            "English": "grievance",
+            "Spanish": "reclamación laboral",
+            "French": "grief",
+            "Japanese": "苦情申し立て",
+            "German": "Beschwerde"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    },
+    "Japanese": {
+      "terms": [
+        {
+          "source_term": "雇用契約",
+          "context": "HR文書",
+          "translations": {
+            "English": "employment contract",
+            "Spanish": "contrato de trabajo",
+            "French": "contrat de travail",
+            "Italian": "contratto di lavoro",
+            "German": "Arbeitsvertrag"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "業績評価",
+          "context": "HRプロセス",
+          "translations": {
+            "English": "performance review",
+            "Spanish": "evaluación de desempeño",
+            "French": "évaluation des performances",
+            "Italian": "valutazione delle prestazioni",
+            "German": "Leistungsbeurteilung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "整理解雇",
+          "context": "HR、雇用法",
+          "translations": {
+            "English": "redundancy",
+            "Spanish": "despido por causas objetivas",
+            "French": "licenciement économique",
+            "Italian": "licenziamento per riduzione del personale",
+            "German": "betriebsbedingte Kündigung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "予告期間",
+          "context": "雇用条件",
+          "translations": {
+            "English": "notice period",
+            "Spanish": "período de preaviso",
+            "French": "préavis",
+            "Italian": "periodo di preavviso",
+            "German": "Kündigungsfrist"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "産休",
+          "context": "HR、雇用給付",
+          "translations": {
+            "English": "maternity leave",
+            "Spanish": "baja por maternidad",
+            "French": "congé maternité",
+            "Italian": "congedo di maternità",
+            "German": "Mutterschaftsurlaub"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "懲戒手続き",
+          "context": "HRプロセス",
+          "translations": {
+            "English": "disciplinary procedure",
+            "Spanish": "procedimiento disciplinario",
+            "French": "procédure disciplinaire",
+            "Italian": "procedura disciplinare",
+            "German": "Disziplinarverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "苦情申し立て",
+          "context": "HR、雇用法",
+          "translations": {
+            "English": "grievance",
+            "Spanish": "reclamación laboral",
+            "French": "grief",
+            "Italian": "reclamo",
+            "German": "Beschwerde"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    },
+    "German": {
+      "terms": [
+        {
+          "source_term": "Arbeitsvertrag",
+          "context": "HR-Dokumentation",
+          "translations": {
+            "English": "employment contract",
+            "Spanish": "contrato de trabajo",
+            "French": "contrat de travail",
+            "Italian": "contratto di lavoro",
+            "Japanese": "雇用契約"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Leistungsbeurteilung",
+          "context": "HR-Prozesse",
+          "translations": {
+            "English": "performance review",
+            "Spanish": "evaluación de desempeño",
+            "French": "évaluation des performances",
+            "Italian": "valutazione delle prestazioni",
+            "Japanese": "業績評価"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "betriebsbedingte Kündigung",
+          "context": "HR, Arbeitsrecht",
+          "translations": {
+            "English": "redundancy",
+            "Spanish": "despido por causas objetivas",
+            "French": "licenciement économique",
+            "Italian": "licenziamento per riduzione del personale",
+            "Japanese": "整理解雇"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Kündigungsfrist",
+          "context": "Arbeitsbedingungen",
+          "translations": {
+            "English": "notice period",
+            "Spanish": "período de preaviso",
+            "French": "préavis",
+            "Italian": "periodo di preavviso",
+            "Japanese": "予告期間"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Mutterschaftsurlaub",
+          "context": "HR, Sozialleistungen",
+          "translations": {
+            "English": "maternity leave",
+            "Spanish": "baja por maternidad",
+            "French": "congé maternité",
+            "Italian": "congedo di maternità",
+            "Japanese": "産休"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Disziplinarverfahren",
+          "context": "HR-Prozesse",
+          "translations": {
+            "English": "disciplinary procedure",
+            "Spanish": "procedimiento disciplinario",
+            "French": "procédure disciplinaire",
+            "Italian": "procedura disciplinare",
+            "Japanese": "懲戒手続き"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Beschwerde",
+          "context": "HR, Arbeitsrecht",
+          "translations": {
+            "English": "grievance",
+            "Spanish": "reclamación laboral",
+            "French": "grief",
+            "Italian": "reclamo",
+            "Japanese": "苦情申し立て"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["COLT", "GDPR", "HR", "KPI", "OKR", "HRIS"]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "domain": "operations",
+  "glossary": {
+    "English": {
+      "terms": [
+        { "source_term": "incident management", "context": "ITIL process documentation, operational SOPs", "translations": { "Spanish": "gestión de incidentes", "French": "gestion des incidents", "Italian": "gestione degli incidenti", "Japanese": "インシデント管理", "German": "Incident-Management" }, "usage_notes": null },
+        { "source_term": "change management", "context": "ITIL process documentation, operational SOPs", "translations": { "Spanish": "gestión de cambios", "French": "gestion des changements", "Italian": "gestione dei cambiamenti", "Japanese": "変更管理", "German": "Änderungsmanagement" }, "usage_notes": null },
+        { "source_term": "standard operating procedure", "context": "Operations manuals", "translations": { "Spanish": "procedimiento operativo estándar", "French": "procédure opérationnelle standard", "Italian": "procedura operativa standard", "Japanese": "標準作業手順書", "German": "Standardarbeitsanweisung" }, "usage_notes": "SOP abbreviation must be kept as-is" },
+        { "source_term": "escalation procedure", "context": "Operational workflows, SOPs", "translations": { "Spanish": "procedimiento de escalada", "French": "procédure d'escalade", "Italian": "procedura di escalation", "Japanese": "エスカレーション手順", "German": "Eskalationsverfahren" }, "usage_notes": null },
+        { "source_term": "service continuity", "context": "Operations planning documents", "translations": { "Spanish": "continuidad del servicio", "French": "continuité de service", "Italian": "continuità del servizio", "Japanese": "サービス継続性", "German": "Servicekontinuität" }, "usage_notes": null },
+        { "source_term": "problem management", "context": "ITIL process documentation", "translations": { "Spanish": "gestión de problemas", "French": "gestion des problèmes", "Italian": "gestione dei problemi", "Japanese": "問題管理", "German": "Problemmanagement" }, "usage_notes": null },
+        { "source_term": "root cause analysis", "context": "Operational process docs, incident reports", "translations": { "Spanish": "análisis de causa raíz", "French": "analyse des causes profondes", "Italian": "analisi delle cause principali", "Japanese": "根本原因分析", "German": "Ursachenanalyse" }, "usage_notes": "RCA abbreviation must be kept as-is" },
+        { "source_term": "procurement", "context": "Operations, logistics documents", "translations": { "Spanish": "adquisición", "French": "approvisionnement", "Italian": "approvvigionamento", "Japanese": "調達", "German": "Beschaffung" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    },
+    "Spanish": {
+      "terms": [
+        { "source_term": "gestión de incidentes", "context": "Documentación de procesos ITIL, SOPs operacionales", "translations": { "English": "incident management", "French": "gestion des incidents", "Italian": "gestione degli incidenti", "Japanese": "インシデント管理", "German": "Incident-Management" }, "usage_notes": null },
+        { "source_term": "gestión de cambios", "context": "Documentación de procesos ITIL, SOPs operacionales", "translations": { "English": "change management", "French": "gestion des changements", "Italian": "gestione dei cambiamenti", "Japanese": "変更管理", "German": "Änderungsmanagement" }, "usage_notes": null },
+        { "source_term": "procedimiento operativo estándar", "context": "Manuales de operaciones", "translations": { "English": "standard operating procedure", "French": "procédure opérationnelle standard", "Italian": "procedura operativa standard", "Japanese": "標準作業手順書", "German": "Standardarbeitsanweisung" }, "usage_notes": null },
+        { "source_term": "procedimiento de escalada", "context": "Flujos de trabajo operacionales, SOPs", "translations": { "English": "escalation procedure", "French": "procédure d'escalade", "Italian": "procedura di escalation", "Japanese": "エスカレーション手順", "German": "Eskalationsverfahren" }, "usage_notes": null },
+        { "source_term": "continuidad del servicio", "context": "Documentos de planificación operacional", "translations": { "English": "service continuity", "French": "continuité de service", "Italian": "continuità del servizio", "Japanese": "サービス継続性", "German": "Servicekontinuität" }, "usage_notes": null },
+        { "source_term": "gestión de problemas", "context": "Documentación de procesos ITIL", "translations": { "English": "problem management", "French": "gestion des problèmes", "Italian": "gestione dei problemi", "Japanese": "問題管理", "German": "Problemmanagement" }, "usage_notes": null },
+        { "source_term": "análisis de causa raíz", "context": "Documentos de procesos operacionales, informes de incidentes", "translations": { "English": "root cause analysis", "French": "analyse des causes profondes", "Italian": "analisi delle cause principali", "Japanese": "根本原因分析", "German": "Ursachenanalyse" }, "usage_notes": null },
+        { "source_term": "adquisición", "context": "Operaciones, documentos de logística", "translations": { "English": "procurement", "French": "approvisionnement", "Italian": "approvvigionamento", "Japanese": "調達", "German": "Beschaffung" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    },
+    "French": {
+      "terms": [
+        { "source_term": "gestion des incidents", "context": "Documentation des processus ITIL, SOPs opérationnels", "translations": { "English": "incident management", "Spanish": "gestión de incidentes", "Italian": "gestione degli incidenti", "Japanese": "インシデント管理", "German": "Incident-Management" }, "usage_notes": null },
+        { "source_term": "gestion des changements", "context": "Documentation des processus ITIL, SOPs opérationnels", "translations": { "English": "change management", "Spanish": "gestión de cambios", "Italian": "gestione dei cambiamenti", "Japanese": "変更管理", "German": "Änderungsmanagement" }, "usage_notes": null },
+        { "source_term": "procédure opérationnelle standard", "context": "Manuels d'exploitation", "translations": { "English": "standard operating procedure", "Spanish": "procedimiento operativo estándar", "Italian": "procedura operativa standard", "Japanese": "標準作業手順書", "German": "Standardarbeitsanweisung" }, "usage_notes": null },
+        { "source_term": "procédure d'escalade", "context": "Flux de travail opérationnels, SOPs", "translations": { "English": "escalation procedure", "Spanish": "procedimiento de escalada", "Italian": "procedura di escalation", "Japanese": "エスカレーション手順", "German": "Eskalationsverfahren" }, "usage_notes": null },
+        { "source_term": "continuité de service", "context": "Documents de planification opérationnelle", "translations": { "English": "service continuity", "Spanish": "continuidad del servicio", "Italian": "continuità del servizio", "Japanese": "サービス継続性", "German": "Servicekontinuität" }, "usage_notes": null },
+        { "source_term": "gestion des problèmes", "context": "Documentation des processus ITIL", "translations": { "English": "problem management", "Spanish": "gestión de problemas", "Italian": "gestione dei problemi", "Japanese": "問題管理", "German": "Problemmanagement" }, "usage_notes": null },
+        { "source_term": "analyse des causes profondes", "context": "Documents de processus opérationnels, rapports d'incidents", "translations": { "English": "root cause analysis", "Spanish": "análisis de causa raíz", "Italian": "analisi delle cause principali", "Japanese": "根本原因分析", "German": "Ursachenanalyse" }, "usage_notes": null },
+        { "source_term": "approvisionnement", "context": "Opérations, documents logistiques", "translations": { "English": "procurement", "Spanish": "adquisición", "Italian": "approvvigionamento", "Japanese": "調達", "German": "Beschaffung" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    },
+    "Italian": {
+      "terms": [
+        { "source_term": "gestione degli incidenti", "context": "Documentazione processi ITIL, SOP operativi", "translations": { "English": "incident management", "Spanish": "gestión de incidentes", "French": "gestion des incidents", "Japanese": "インシデント管理", "German": "Incident-Management" }, "usage_notes": null },
+        { "source_term": "gestione dei cambiamenti", "context": "Documentazione processi ITIL, SOP operativi", "translations": { "English": "change management", "Spanish": "gestión de cambios", "French": "gestion des changements", "Japanese": "変更管理", "German": "Änderungsmanagement" }, "usage_notes": null },
+        { "source_term": "procedura operativa standard", "context": "Manuali operativi", "translations": { "English": "standard operating procedure", "Spanish": "procedimiento operativo estándar", "French": "procédure opérationnelle standard", "Japanese": "標準作業手順書", "German": "Standardarbeitsanweisung" }, "usage_notes": null },
+        { "source_term": "procedura di escalation", "context": "Flussi di lavoro operativi, SOP", "translations": { "English": "escalation procedure", "Spanish": "procedimiento de escalada", "French": "procédure d'escalade", "Japanese": "エスカレーション手順", "German": "Eskalationsverfahren" }, "usage_notes": null },
+        { "source_term": "continuità del servizio", "context": "Documenti di pianificazione operativa", "translations": { "English": "service continuity", "Spanish": "continuidad del servicio", "French": "continuité de service", "Japanese": "サービス継続性", "German": "Servicekontinuität" }, "usage_notes": null },
+        { "source_term": "gestione dei problemi", "context": "Documentazione processi ITIL", "translations": { "English": "problem management", "Spanish": "gestión de problemas", "French": "gestion des problèmes", "Japanese": "問題管理", "German": "Problemmanagement" }, "usage_notes": null },
+        { "source_term": "analisi delle cause principali", "context": "Documenti di processo operativo, report sugli incidenti", "translations": { "English": "root cause analysis", "Spanish": "análisis de causa raíz", "French": "analyse des causes profondes", "Japanese": "根本原因分析", "German": "Ursachenanalyse" }, "usage_notes": null },
+        { "source_term": "approvvigionamento", "context": "Operazioni, documenti logistici", "translations": { "English": "procurement", "Spanish": "adquisición", "French": "approvisionnement", "Japanese": "調達", "German": "Beschaffung" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    },
+    "Japanese": {
+      "terms": [
+        { "source_term": "インシデント管理", "context": "ITILプロセス文書、運用SOP", "translations": { "English": "incident management", "Spanish": "gestión de incidentes", "French": "gestion des incidents", "Italian": "gestione degli incidenti", "German": "Incident-Management" }, "usage_notes": null },
+        { "source_term": "変更管理", "context": "ITILプロセス文書、運用SOP", "translations": { "English": "change management", "Spanish": "gestión de cambios", "French": "gestion des changements", "Italian": "gestione dei cambiamenti", "German": "Änderungsmanagement" }, "usage_notes": null },
+        { "source_term": "標準作業手順書", "context": "運用マニュアル", "translations": { "English": "standard operating procedure", "Spanish": "procedimiento operativo estándar", "French": "procédure opérationnelle standard", "Italian": "procedura operativa standard", "German": "Standardarbeitsanweisung" }, "usage_notes": null },
+        { "source_term": "エスカレーション手順", "context": "運用ワークフロー、SOP", "translations": { "English": "escalation procedure", "Spanish": "procedimiento de escalada", "French": "procédure d'escalade", "Italian": "procedura di escalation", "German": "Eskalationsverfahren" }, "usage_notes": null },
+        { "source_term": "サービス継続性", "context": "運用計画文書", "translations": { "English": "service continuity", "Spanish": "continuidad del servicio", "French": "continuité de service", "Italian": "continuità del servizio", "German": "Servicekontinuität" }, "usage_notes": null },
+        { "source_term": "問題管理", "context": "ITILプロセス文書", "translations": { "English": "problem management", "Spanish": "gestión de problemas", "French": "gestion des problèmes", "Italian": "gestione dei problemi", "German": "Problemmanagement" }, "usage_notes": null },
+        { "source_term": "根本原因分析", "context": "運用プロセス文書、インシデントレポート", "translations": { "English": "root cause analysis", "Spanish": "análisis de causa raíz", "French": "analyse des causes profondes", "Italian": "analisi delle cause principali", "German": "Ursachenanalyse" }, "usage_notes": null },
+        { "source_term": "調達", "context": "運用、物流文書", "translations": { "English": "procurement", "Spanish": "adquisición", "French": "approvisionnement", "Italian": "approvvigionamento", "German": "Beschaffung" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    },
+    "German": {
+      "terms": [
+        { "source_term": "Incident-Management", "context": "ITIL-Prozessdokumentation, Betriebliche SOPs", "translations": { "English": "incident management", "Spanish": "gestión de incidentes", "French": "gestion des incidents", "Italian": "gestione degli incidenti", "Japanese": "インシデント管理" }, "usage_notes": null },
+        { "source_term": "Änderungsmanagement", "context": "ITIL-Prozessdokumentation, Betriebliche SOPs", "translations": { "English": "change management", "Spanish": "gestión de cambios", "French": "gestion des changements", "Italian": "gestione dei cambiamenti", "Japanese": "変更管理" }, "usage_notes": null },
+        { "source_term": "Standardarbeitsanweisung", "context": "Betriebliche Handbücher", "translations": { "English": "standard operating procedure", "Spanish": "procedimiento operativo estándar", "French": "procédure opérationnelle standard", "Italian": "procedura operativa standard", "Japanese": "標準作業手順書" }, "usage_notes": null },
+        { "source_term": "Eskalationsverfahren", "context": "Betriebliche Arbeitsabläufe, SOPs", "translations": { "English": "escalation procedure", "Spanish": "procedimiento de escalada", "French": "procédure d'escalade", "Italian": "procedura di escalation", "Japanese": "エスカレーション手順" }, "usage_notes": null },
+        { "source_term": "Servicekontinuität", "context": "Betriebliche Planungsdokumente", "translations": { "English": "service continuity", "Spanish": "continuidad del servicio", "French": "continuité de service", "Italian": "continuità del servizio", "Japanese": "サービス継続性" }, "usage_notes": null },
+        { "source_term": "Problemmanagement", "context": "ITIL-Prozessdokumentation", "translations": { "English": "problem management", "Spanish": "gestión de problemas", "French": "gestion des problèmes", "Italian": "gestione dei problemi", "Japanese": "問題管理" }, "usage_notes": null },
+        { "source_term": "Ursachenanalyse", "context": "Betriebliche Prozessdokumente, Vorfallsberichte", "translations": { "English": "root cause analysis", "Spanish": "análisis de causa raíz", "French": "analyse des causes profondes", "Italian": "analisi delle cause principali", "Japanese": "根本原因分析" }, "usage_notes": null },
+        { "source_term": "Beschaffung", "context": "Betrieb, Logistikdokumente", "translations": { "English": "procurement", "Spanish": "adquisición", "French": "approvisionnement", "Italian": "approvvigionamento", "Japanese": "調達" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "SOP", "ITIL", "ITSM", "SLA", "RCA", "KPI", "MTTR", "MTBF", "NOC"]
+    }
+  }
+}

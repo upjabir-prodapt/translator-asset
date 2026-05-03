@@ -1,0 +1,1565 @@
+{
+  "domain": "commercial",
+  "glossary": {
+    "English": {
+      "terms": [
+        {
+          "source_term": "service level agreement",
+          "context": "Commercial contracts, vendor agreements",
+          "translations": {
+            "Spanish": "acuerdo de nivel de servicio",
+            "French": "accord de niveau de service",
+            "Italian": "accordo sul livello di servizio",
+            "Japanese": "サービスレベル契約",
+            "German": "Servicegütevereinbarung"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "wholesale",
+          "context": "Commercial/carrier sales agreements",
+          "translations": {
+            "Spanish": "mayorista",
+            "French": "vente en gros",
+            "Italian": "all'ingrosso",
+            "Japanese": "卸売",
+            "German": "Großhandel"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "request for proposal",
+          "context": "Commercial procurement documents",
+          "translations": {
+            "Spanish": "solicitud de propuesta",
+            "French": "appel d'offres",
+            "Italian": "richiesta di offerta",
+            "Japanese": "提案依頼書",
+            "German": "Ausschreibung"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "purchase order",
+          "context": "Commercial procurement",
+          "translations": {
+            "Spanish": "orden de compra",
+            "French": "bon de commande",
+            "Italian": "ordine di acquisto",
+            "Japanese": "発注書",
+            "German": "Bestellung"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "vendor",
+          "context": "Commercial contracts, procurement",
+          "translations": {
+            "Spanish": "proveedor",
+            "French": "fournisseur",
+            "Italian": "fornitore",
+            "Japanese": "ベンダー",
+            "German": "Lieferant"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "price list",
+          "context": "Commercial sales documents",
+          "translations": {
+            "Spanish": "lista de precios",
+            "French": "liste de prix",
+            "Italian": "listino prezzi",
+            "Japanese": "価格表",
+            "German": "Preisliste"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "business proposal",
+          "context": "Commercial correspondence",
+          "translations": {
+            "Spanish": "propuesta comercial",
+            "French": "proposition commerciale",
+            "Italian": "proposta commerciale",
+            "Japanese": "事業提案書",
+            "German": "Geschäftsangebot"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "master service agreement",
+          "context": "Commercial contracts",
+          "translations": {
+            "Spanish": "acuerdo marco de servicios",
+            "French": "contrat-cadre de services",
+            "Italian": "accordo quadro di servizi",
+            "Japanese": "基本サービス契約",
+            "German": "Rahmendienstleistungsvertrag"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "cloud connectivity",
+          "context": "COLT product, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "conectividad en la nube",
+            "French": "connectivité cloud",
+            "Italian": "connettività cloud",
+            "Japanese": "クラウド接続",
+            "German": "Cloud-Konnektivität"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "multi-cloud",
+          "context": "COLT product, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "multi-nube",
+            "French": "multi-cloud",
+            "Italian": "multi-cloud",
+            "Japanese": "マルチクラウド",
+            "German": "Multi-Cloud"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "on demand",
+          "context": "COLT product, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "bajo demanda",
+            "French": "à la demande",
+            "Italian": "su richiesta",
+            "Japanese": "オンデマンド",
+            "German": "auf Abruf"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "unified communications",
+          "context": "COLT product, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "comunicaciones unificadas",
+            "French": "communications unifiées",
+            "Italian": "comunicazioni unificate",
+            "Japanese": "ユニファイドコミュニケーション",
+            "German": "Unified Communications"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "point of presence",
+          "context": "COLT network, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "punto de presencia",
+            "French": "point de présence",
+            "Italian": "punto di presenza",
+            "Japanese": "ネットワーク拠点",
+            "German": "Zugangspunkt"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "digital infrastructure",
+          "context": "COLT positioning, commercial company overviews",
+          "translations": {
+            "Spanish": "infraestructura digital",
+            "French": "infrastructure numérique",
+            "Italian": "infrastruttura digitale",
+            "Japanese": "デジタルインフラ",
+            "German": "digitale Infrastruktur"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "digital transformation",
+          "context": "COLT positioning, commercial company overviews",
+          "translations": {
+            "Spanish": "transformación digital",
+            "French": "transformation numérique",
+            "Italian": "trasformazione digitale",
+            "Japanese": "デジタルトランスフォーメーション",
+            "German": "digitale Transformation"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "low latency",
+          "context": "COLT network capability, commercial proposals",
+          "translations": {
+            "Spanish": "baja latencia",
+            "French": "faible latence",
+            "Italian": "bassa latenza",
+            "Japanese": "低遅延",
+            "German": "niedrige Latenz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "data center",
+          "context": "COLT network, commercial proposals and company overviews",
+          "translations": {
+            "Spanish": "centro de datos",
+            "French": "centre de données",
+            "Italian": "data center",
+            "Japanese": "データセンター",
+            "German": "Rechenzentrum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "net zero",
+          "context": "Sustainability section, commercial company overviews",
+          "translations": {
+            "Spanish": "emisiones netas cero",
+            "French": "zéro émission nette",
+            "Italian": "zero emissioni nette",
+            "Japanese": "ネットゼロ",
+            "German": "Netto-Null"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "global presence",
+          "context": "Commercial company overviews",
+          "translations": {
+            "Spanish": "presencia global",
+            "French": "présence mondiale",
+            "Italian": "presenza globale",
+            "Japanese": "グローバルプレゼンス",
+            "German": "globale Präsenz"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    },
+    "Spanish": {
+      "terms": [
+        {
+          "source_term": "acuerdo de nivel de servicio",
+          "context": "Contratos comerciales, acuerdos de proveedores",
+          "translations": {
+            "English": "service level agreement",
+            "French": "accord de niveau de service",
+            "Italian": "accordo sul livello di servizio",
+            "Japanese": "サービスレベル契約",
+            "German": "Servicegütevereinbarung"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "mayorista",
+          "context": "Acuerdos de ventas comerciales/operadoras",
+          "translations": {
+            "English": "wholesale",
+            "French": "vente en gros",
+            "Italian": "all'ingrosso",
+            "Japanese": "卸売",
+            "German": "Großhandel"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "solicitud de propuesta",
+          "context": "Documentos de adquisición comercial",
+          "translations": {
+            "English": "request for proposal",
+            "French": "appel d'offres",
+            "Italian": "richiesta di offerta",
+            "Japanese": "提案依頼書",
+            "German": "Ausschreibung"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "orden de compra",
+          "context": "Adquisición comercial",
+          "translations": {
+            "English": "purchase order",
+            "French": "bon de commande",
+            "Italian": "ordine di acquisto",
+            "Japanese": "発注書",
+            "German": "Bestellung"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "proveedor",
+          "context": "Contratos comerciales, adquisición",
+          "translations": {
+            "English": "vendor",
+            "French": "fournisseur",
+            "Italian": "fornitore",
+            "Japanese": "ベンダー",
+            "German": "Lieferant"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "lista de precios",
+          "context": "Documentos de ventas comerciales",
+          "translations": {
+            "English": "price list",
+            "French": "liste de prix",
+            "Italian": "listino prezzi",
+            "Japanese": "価格表",
+            "German": "Preisliste"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "propuesta comercial",
+          "context": "Correspondencia comercial",
+          "translations": {
+            "English": "business proposal",
+            "French": "proposition commerciale",
+            "Italian": "proposta commerciale",
+            "Japanese": "事業提案書",
+            "German": "Geschäftsangebot"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "acuerdo marco de servicios",
+          "context": "Contratos comerciales",
+          "translations": {
+            "English": "master service agreement",
+            "French": "contrat-cadre de services",
+            "Italian": "accordo quadro di servizi",
+            "Japanese": "基本サービス契約",
+            "German": "Rahmendienstleistungsvertrag"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "conectividad en la nube",
+          "context": "Producto COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "cloud connectivity",
+            "French": "connectivité cloud",
+            "Italian": "connettività cloud",
+            "Japanese": "クラウド接続",
+            "German": "Cloud-Konnektivität"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "multi-nube",
+          "context": "Producto COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "multi-cloud",
+            "French": "multi-cloud",
+            "Italian": "multi-cloud",
+            "Japanese": "マルチクラウド",
+            "German": "Multi-Cloud"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "bajo demanda",
+          "context": "Producto COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "on demand",
+            "French": "à la demande",
+            "Italian": "su richiesta",
+            "Japanese": "オンデマンド",
+            "German": "auf Abruf"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "comunicaciones unificadas",
+          "context": "Producto COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "unified communications",
+            "French": "communications unifiées",
+            "Italian": "comunicazioni unificate",
+            "Japanese": "ユニファイドコミュニケーション",
+            "German": "Unified Communications"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "punto de presencia",
+          "context": "Red COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "point of presence",
+            "French": "point de présence",
+            "Italian": "punto di presenza",
+            "Japanese": "ネットワーク拠点",
+            "German": "Zugangspunkt"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "infraestructura digital",
+          "context": "Posicionamiento COLT, resúmenes de empresa comerciales",
+          "translations": {
+            "English": "digital infrastructure",
+            "French": "infrastructure numérique",
+            "Italian": "infrastruttura digitale",
+            "Japanese": "デジタルインフラ",
+            "German": "digitale Infrastruktur"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "transformación digital",
+          "context": "Posicionamiento COLT, resúmenes de empresa comerciales",
+          "translations": {
+            "English": "digital transformation",
+            "French": "transformation numérique",
+            "Italian": "trasformazione digitale",
+            "Japanese": "デジタルトランスフォーメーション",
+            "German": "digitale Transformation"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "baja latencia",
+          "context": "Capacidad de red COLT, propuestas comerciales",
+          "translations": {
+            "English": "low latency",
+            "French": "faible latence",
+            "Italian": "bassa latenza",
+            "Japanese": "低遅延",
+            "German": "niedrige Latenz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "centro de datos",
+          "context": "Red COLT, propuestas comerciales y resúmenes de empresa",
+          "translations": {
+            "English": "data center",
+            "French": "centre de données",
+            "Italian": "data center",
+            "Japanese": "データセンター",
+            "German": "Rechenzentrum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "emisiones netas cero",
+          "context": "Sección de sostenibilidad, resúmenes de empresa comerciales",
+          "translations": {
+            "English": "net zero",
+            "French": "zéro émission nette",
+            "Italian": "zero emissioni nette",
+            "Japanese": "ネットゼロ",
+            "German": "Netto-Null"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "presencia global",
+          "context": "Resúmenes de empresa comerciales",
+          "translations": {
+            "English": "global presence",
+            "French": "présence mondiale",
+            "Italian": "presenza globale",
+            "Japanese": "グローバルプレゼンス",
+            "German": "globale Präsenz"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    },
+    "French": {
+      "terms": [
+        {
+          "source_term": "accord de niveau de service",
+          "context": "Contrats commerciaux, accords fournisseurs",
+          "translations": {
+            "English": "service level agreement",
+            "Spanish": "acuerdo de nivel de servicio",
+            "Italian": "accordo sul livello di servizio",
+            "Japanese": "サービスレベル契約",
+            "German": "Servicegütevereinbarung"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "vente en gros",
+          "context": "Accords de vente commerciale/opérateurs",
+          "translations": {
+            "English": "wholesale",
+            "Spanish": "mayorista",
+            "Italian": "all'ingrosso",
+            "Japanese": "卸売",
+            "German": "Großhandel"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "appel d'offres",
+          "context": "Documents d'approvisionnement commercial",
+          "translations": {
+            "English": "request for proposal",
+            "Spanish": "solicitud de propuesta",
+            "Italian": "richiesta di offerta",
+            "Japanese": "提案依頼書",
+            "German": "Ausschreibung"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "bon de commande",
+          "context": "Approvisionnement commercial",
+          "translations": {
+            "English": "purchase order",
+            "Spanish": "orden de compra",
+            "Italian": "ordine di acquisto",
+            "Japanese": "発注書",
+            "German": "Bestellung"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "fournisseur",
+          "context": "Contrats commerciaux, approvisionnement",
+          "translations": {
+            "English": "vendor",
+            "Spanish": "proveedor",
+            "Italian": "fornitore",
+            "Japanese": "ベンダー",
+            "German": "Lieferant"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "liste de prix",
+          "context": "Documents de vente commerciale",
+          "translations": {
+            "English": "price list",
+            "Spanish": "lista de precios",
+            "Italian": "listino prezzi",
+            "Japanese": "価格表",
+            "German": "Preisliste"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "proposition commerciale",
+          "context": "Correspondance commerciale",
+          "translations": {
+            "English": "business proposal",
+            "Spanish": "propuesta comercial",
+            "Italian": "proposta commerciale",
+            "Japanese": "事業提案書",
+            "German": "Geschäftsangebot"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "contrat-cadre de services",
+          "context": "Contrats commerciaux",
+          "translations": {
+            "English": "master service agreement",
+            "Spanish": "acuerdo marco de servicios",
+            "Italian": "accordo quadro di servizi",
+            "Japanese": "基本サービス契約",
+            "German": "Rahmendienstleistungsvertrag"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "connectivité cloud",
+          "context": "Produit COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "cloud connectivity",
+            "Spanish": "conectividad en la nube",
+            "Italian": "connettività cloud",
+            "Japanese": "クラウド接続",
+            "German": "Cloud-Konnektivität"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "multi-cloud",
+          "context": "Produit COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "multi-cloud",
+            "Spanish": "multi-nube",
+            "Italian": "multi-cloud",
+            "Japanese": "マルチクラウド",
+            "German": "Multi-Cloud"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "à la demande",
+          "context": "Produit COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "on demand",
+            "Spanish": "bajo demanda",
+            "Italian": "su richiesta",
+            "Japanese": "オンデマンド",
+            "German": "auf Abruf"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "communications unifiées",
+          "context": "Produit COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "unified communications",
+            "Spanish": "comunicaciones unificadas",
+            "Italian": "comunicazioni unificate",
+            "Japanese": "ユニファイドコミュニケーション",
+            "German": "Unified Communications"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "point de présence",
+          "context": "Réseau COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "point of presence",
+            "Spanish": "punto de presencia",
+            "Italian": "punto di presenza",
+            "Japanese": "ネットワーク拠点",
+            "German": "Zugangspunkt"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "infrastructure numérique",
+          "context": "Positionnement COLT, présentations d'entreprise commerciales",
+          "translations": {
+            "English": "digital infrastructure",
+            "Spanish": "infraestructura digital",
+            "Italian": "infrastruttura digitale",
+            "Japanese": "デジタルインフラ",
+            "German": "digitale Infrastruktur"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "transformation numérique",
+          "context": "Positionnement COLT, présentations d'entreprise commerciales",
+          "translations": {
+            "English": "digital transformation",
+            "Spanish": "transformación digital",
+            "Italian": "trasformazione digitale",
+            "Japanese": "デジタルトランスフォーメーション",
+            "German": "digitale Transformation"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "faible latence",
+          "context": "Capacité réseau COLT, propositions commerciales",
+          "translations": {
+            "English": "low latency",
+            "Spanish": "baja latencia",
+            "Italian": "bassa latenza",
+            "Japanese": "低遅延",
+            "German": "niedrige Latenz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "centre de données",
+          "context": "Réseau COLT, propositions commerciales et présentations d'entreprise",
+          "translations": {
+            "English": "data center",
+            "Spanish": "centro de datos",
+            "Italian": "data center",
+            "Japanese": "データセンター",
+            "German": "Rechenzentrum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "zéro émission nette",
+          "context": "Section durabilité, présentations d'entreprise commerciales",
+          "translations": {
+            "English": "net zero",
+            "Spanish": "emisiones netas cero",
+            "Italian": "zero emissioni nette",
+            "Japanese": "ネットゼロ",
+            "German": "Netto-Null"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "présence mondiale",
+          "context": "Présentations d'entreprise commerciales",
+          "translations": {
+            "English": "global presence",
+            "Spanish": "presencia global",
+            "Italian": "presenza globale",
+            "Japanese": "グローバルプレゼンス",
+            "German": "globale Präsenz"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    },
+    "Italian": {
+      "terms": [
+        {
+          "source_term": "accordo sul livello di servizio",
+          "context": "Contratti commerciali, accordi fornitore",
+          "translations": {
+            "English": "service level agreement",
+            "Spanish": "acuerdo de nivel de servicio",
+            "French": "accord de niveau de service",
+            "Japanese": "サービスレベル契約",
+            "German": "Servicegütevereinbarung"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "all'ingrosso",
+          "context": "Accordi di vendita commerciale/operatori",
+          "translations": {
+            "English": "wholesale",
+            "Spanish": "mayorista",
+            "French": "vente en gros",
+            "Japanese": "卸売",
+            "German": "Großhandel"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "richiesta di offerta",
+          "context": "Documenti di approvvigionamento commerciale",
+          "translations": {
+            "English": "request for proposal",
+            "Spanish": "solicitud de propuesta",
+            "French": "appel d'offres",
+            "Japanese": "提案依頼書",
+            "German": "Ausschreibung"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "ordine di acquisto",
+          "context": "Approvvigionamento commerciale",
+          "translations": {
+            "English": "purchase order",
+            "Spanish": "orden de compra",
+            "French": "bon de commande",
+            "Japanese": "発注書",
+            "German": "Bestellung"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "fornitore",
+          "context": "Contratti commerciali, approvvigionamento",
+          "translations": {
+            "English": "vendor",
+            "Spanish": "proveedor",
+            "French": "fournisseur",
+            "Japanese": "ベンダー",
+            "German": "Lieferant"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "listino prezzi",
+          "context": "Documenti di vendita commerciale",
+          "translations": {
+            "English": "price list",
+            "Spanish": "lista de precios",
+            "French": "liste de prix",
+            "Japanese": "価格表",
+            "German": "Preisliste"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "proposta commerciale",
+          "context": "Corrispondenza commerciale",
+          "translations": {
+            "English": "business proposal",
+            "Spanish": "propuesta comercial",
+            "French": "proposition commerciale",
+            "Japanese": "事業提案書",
+            "German": "Geschäftsangebot"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "accordo quadro di servizi",
+          "context": "Contratti commerciali",
+          "translations": {
+            "English": "master service agreement",
+            "Spanish": "acuerdo marco de servicios",
+            "French": "contrat-cadre de services",
+            "Japanese": "基本サービス契約",
+            "German": "Rahmendienstleistungsvertrag"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "connettività cloud",
+          "context": "Prodotto COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "cloud connectivity",
+            "Spanish": "conectividad en la nube",
+            "French": "connectivité cloud",
+            "Japanese": "クラウド接続",
+            "German": "Cloud-Konnektivität"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "multi-cloud",
+          "context": "Prodotto COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "multi-cloud",
+            "Spanish": "multi-nube",
+            "French": "multi-cloud",
+            "Japanese": "マルチクラウド",
+            "German": "Multi-Cloud"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "su richiesta",
+          "context": "Prodotto COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "on demand",
+            "Spanish": "bajo demanda",
+            "French": "à la demande",
+            "Japanese": "オンデマンド",
+            "German": "auf Abruf"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "comunicazioni unificate",
+          "context": "Prodotto COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "unified communications",
+            "Spanish": "comunicaciones unificadas",
+            "French": "communications unifiées",
+            "Japanese": "ユニファイドコミュニケーション",
+            "German": "Unified Communications"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "punto di presenza",
+          "context": "Rete COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "point of presence",
+            "Spanish": "punto de presencia",
+            "French": "point de présence",
+            "Japanese": "ネットワーク拠点",
+            "German": "Zugangspunkt"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "infrastruttura digitale",
+          "context": "Posizionamento COLT, panoramiche aziendali commerciali",
+          "translations": {
+            "English": "digital infrastructure",
+            "Spanish": "infraestructura digital",
+            "French": "infrastructure numérique",
+            "Japanese": "デジタルインフラ",
+            "German": "digitale Infrastruktur"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "trasformazione digitale",
+          "context": "Posizionamento COLT, panoramiche aziendali commerciali",
+          "translations": {
+            "English": "digital transformation",
+            "Spanish": "transformación digital",
+            "French": "transformation numérique",
+            "Japanese": "デジタルトランスフォーメーション",
+            "German": "digitale Transformation"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "bassa latenza",
+          "context": "Capacità di rete COLT, proposte commerciali",
+          "translations": {
+            "English": "low latency",
+            "Spanish": "baja latencia",
+            "French": "faible latence",
+            "Japanese": "低遅延",
+            "German": "niedrige Latenz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "data center",
+          "context": "Rete COLT, proposte commerciali e panoramiche aziendali",
+          "translations": {
+            "English": "data center",
+            "Spanish": "centro de datos",
+            "French": "centre de données",
+            "Japanese": "データセンター",
+            "German": "Rechenzentrum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "zero emissioni nette",
+          "context": "Sezione sostenibilità, panoramiche aziendali commerciali",
+          "translations": {
+            "English": "net zero",
+            "Spanish": "emisiones netas cero",
+            "French": "zéro émission nette",
+            "Japanese": "ネットゼロ",
+            "German": "Netto-Null"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "presenza globale",
+          "context": "Panoramiche aziendali commerciali",
+          "translations": {
+            "English": "global presence",
+            "Spanish": "presencia global",
+            "French": "présence mondiale",
+            "Japanese": "グローバルプレゼンス",
+            "German": "globale Präsenz"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    },
+    "Japanese": {
+      "terms": [
+        {
+          "source_term": "サービスレベル契約",
+          "context": "商業契約、ベンダー契約",
+          "translations": {
+            "English": "service level agreement",
+            "Spanish": "acuerdo de nivel de servicio",
+            "French": "accord de niveau de service",
+            "Italian": "accordo sul livello di servizio",
+            "German": "Servicegütevereinbarung"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "卸売",
+          "context": "商業・通信事業者の販売契約",
+          "translations": {
+            "English": "wholesale",
+            "Spanish": "mayorista",
+            "French": "vente en gros",
+            "Italian": "all'ingrosso",
+            "German": "Großhandel"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "提案依頼書",
+          "context": "商業調達文書",
+          "translations": {
+            "English": "request for proposal",
+            "Spanish": "solicitud de propuesta",
+            "French": "appel d'offres",
+            "Italian": "richiesta di offerta",
+            "German": "Ausschreibung"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "発注書",
+          "context": "商業調達",
+          "translations": {
+            "English": "purchase order",
+            "Spanish": "orden de compra",
+            "French": "bon de commande",
+            "Italian": "ordine di acquisto",
+            "German": "Bestellung"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "ベンダー",
+          "context": "商業契約、調達",
+          "translations": {
+            "English": "vendor",
+            "Spanish": "proveedor",
+            "French": "fournisseur",
+            "Italian": "fornitore",
+            "German": "Lieferant"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "価格表",
+          "context": "商業販売文書",
+          "translations": {
+            "English": "price list",
+            "Spanish": "lista de precios",
+            "French": "liste de prix",
+            "Italian": "listino prezzi",
+            "German": "Preisliste"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "事業提案書",
+          "context": "商業往来",
+          "translations": {
+            "English": "business proposal",
+            "Spanish": "propuesta comercial",
+            "French": "proposition commerciale",
+            "Italian": "proposta commerciale",
+            "German": "Geschäftsangebot"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "基本サービス契約",
+          "context": "商業契約",
+          "translations": {
+            "English": "master service agreement",
+            "Spanish": "acuerdo marco de servicios",
+            "French": "contrat-cadre de services",
+            "Italian": "accordo quadro di servizi",
+            "German": "Rahmendienstleistungsvertrag"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "クラウド接続",
+          "context": "COLTプロダクト、商業提案書および会社概要",
+          "translations": {
+            "English": "cloud connectivity",
+            "Spanish": "conectividad en la nube",
+            "French": "connectivité cloud",
+            "Italian": "connettività cloud",
+            "German": "Cloud-Konnektivität"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "マルチクラウド",
+          "context": "COLTプロダクト、商業提案書および会社概要",
+          "translations": {
+            "English": "multi-cloud",
+            "Spanish": "multi-nube",
+            "French": "multi-cloud",
+            "Italian": "multi-cloud",
+            "German": "Multi-Cloud"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "オンデマンド",
+          "context": "COLTプロダクト、商業提案書および会社概要",
+          "translations": {
+            "English": "on demand",
+            "Spanish": "bajo demanda",
+            "French": "à la demande",
+            "Italian": "su richiesta",
+            "German": "auf Abruf"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "ユニファイドコミュニケーション",
+          "context": "COLTプロダクト、商業提案書および会社概要",
+          "translations": {
+            "English": "unified communications",
+            "Spanish": "comunicaciones unificadas",
+            "French": "communications unifiées",
+            "Italian": "comunicazioni unificate",
+            "German": "Unified Communications"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "ネットワーク拠点",
+          "context": "COLTネットワーク、商業提案書および会社概要",
+          "translations": {
+            "English": "point of presence",
+            "Spanish": "punto de presencia",
+            "French": "point de présence",
+            "Italian": "punto di presenza",
+            "German": "Zugangspunkt"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "デジタルインフラ",
+          "context": "COLTポジショニング、商業会社概要",
+          "translations": {
+            "English": "digital infrastructure",
+            "Spanish": "infraestructura digital",
+            "French": "infrastructure numérique",
+            "Italian": "infrastruttura digitale",
+            "German": "digitale Infrastruktur"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "デジタルトランスフォーメーション",
+          "context": "COLTポジショニング、商業会社概要",
+          "translations": {
+            "English": "digital transformation",
+            "Spanish": "transformación digital",
+            "French": "transformation numérique",
+            "Italian": "trasformazione digitale",
+            "German": "digitale Transformation"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "低遅延",
+          "context": "COLTネットワーク能力、商業提案書",
+          "translations": {
+            "English": "low latency",
+            "Spanish": "baja latencia",
+            "French": "faible latence",
+            "Italian": "bassa latenza",
+            "German": "niedrige Latenz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "データセンター",
+          "context": "COLTネットワーク、商業提案書および会社概要",
+          "translations": {
+            "English": "data center",
+            "Spanish": "centro de datos",
+            "French": "centre de données",
+            "Italian": "data center",
+            "German": "Rechenzentrum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "ネットゼロ",
+          "context": "サステナビリティセクション、商業会社概要",
+          "translations": {
+            "English": "net zero",
+            "Spanish": "emisiones netas cero",
+            "French": "zéro émission nette",
+            "Italian": "zero emissioni nette",
+            "German": "Netto-Null"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "グローバルプレゼンス",
+          "context": "商業会社概要",
+          "translations": {
+            "English": "global presence",
+            "Spanish": "presencia global",
+            "French": "présence mondiale",
+            "Italian": "presenza globale",
+            "German": "globale Präsenz"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    },
+    "German": {
+      "terms": [
+        {
+          "source_term": "Servicegütevereinbarung",
+          "context": "Handelsverträge, Lieferantenvereinbarungen",
+          "translations": {
+            "English": "service level agreement",
+            "Spanish": "acuerdo de nivel de servicio",
+            "French": "accord de niveau de service",
+            "Italian": "accordo sul livello di servizio",
+            "Japanese": "サービスレベル契約"
+          },
+          "usage_notes": "SLA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "Großhandel",
+          "context": "Handels-/Betreibervereinbarungen",
+          "translations": {
+            "English": "wholesale",
+            "Spanish": "mayorista",
+            "French": "vente en gros",
+            "Italian": "all'ingrosso",
+            "Japanese": "卸売"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Ausschreibung",
+          "context": "Kommerzielle Beschaffungsunterlagen",
+          "translations": {
+            "English": "request for proposal",
+            "Spanish": "solicitud de propuesta",
+            "French": "appel d'offres",
+            "Italian": "richiesta di offerta",
+            "Japanese": "提案依頼書"
+          },
+          "usage_notes": "RFP abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "Bestellung",
+          "context": "Kommerzielle Beschaffung",
+          "translations": {
+            "English": "purchase order",
+            "Spanish": "orden de compra",
+            "French": "bon de commande",
+            "Italian": "ordine di acquisto",
+            "Japanese": "発注書"
+          },
+          "usage_notes": "PO abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "Lieferant",
+          "context": "Handelsverträge, Beschaffung",
+          "translations": {
+            "English": "vendor",
+            "Spanish": "proveedor",
+            "French": "fournisseur",
+            "Italian": "fornitore",
+            "Japanese": "ベンダー"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Preisliste",
+          "context": "Kommerzielle Verkaufsunterlagen",
+          "translations": {
+            "English": "price list",
+            "Spanish": "lista de precios",
+            "French": "liste de prix",
+            "Italian": "listino prezzi",
+            "Japanese": "価格表"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Geschäftsangebot",
+          "context": "Kaufmännische Korrespondenz",
+          "translations": {
+            "English": "business proposal",
+            "Spanish": "propuesta comercial",
+            "French": "proposition commerciale",
+            "Italian": "proposta commerciale",
+            "Japanese": "事業提案書"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Rahmendienstleistungsvertrag",
+          "context": "Handelsverträge",
+          "translations": {
+            "English": "master service agreement",
+            "Spanish": "acuerdo marco de servicios",
+            "French": "contrat-cadre de services",
+            "Italian": "accordo quadro di servizi",
+            "Japanese": "基本サービス契約"
+          },
+          "usage_notes": "MSA abbreviation must be kept as-is"
+        },
+        {
+          "source_term": "Cloud-Konnektivität",
+          "context": "COLT-Produkt, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "cloud connectivity",
+            "Spanish": "conectividad en la nube",
+            "French": "connectivité cloud",
+            "Italian": "connettività cloud",
+            "Japanese": "クラウド接続"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Multi-Cloud",
+          "context": "COLT-Produkt, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "multi-cloud",
+            "Spanish": "multi-nube",
+            "French": "multi-cloud",
+            "Italian": "multi-cloud",
+            "Japanese": "マルチクラウド"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "auf Abruf",
+          "context": "COLT-Produkt, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "on demand",
+            "Spanish": "bajo demanda",
+            "French": "à la demande",
+            "Italian": "su richiesta",
+            "Japanese": "オンデマンド"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Unified Communications",
+          "context": "COLT-Produkt, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "unified communications",
+            "Spanish": "comunicaciones unificadas",
+            "French": "communications unifiées",
+            "Italian": "comunicazioni unificate",
+            "Japanese": "ユニファイドコミュニケーション"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Zugangspunkt",
+          "context": "COLT-Netzwerk, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "point of presence",
+            "Spanish": "punto de presencia",
+            "French": "point de présence",
+            "Italian": "punto di presenza",
+            "Japanese": "ネットワーク拠点"
+          },
+          "usage_notes": "Abbreviated as PoP; keep abbreviation as-is"
+        },
+        {
+          "source_term": "digitale Infrastruktur",
+          "context": "COLT-Positionierung, kommerzielle Unternehmensübersichten",
+          "translations": {
+            "English": "digital infrastructure",
+            "Spanish": "infraestructura digital",
+            "French": "infrastructure numérique",
+            "Italian": "infrastruttura digitale",
+            "Japanese": "デジタルインフラ"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "digitale Transformation",
+          "context": "COLT-Positionierung, kommerzielle Unternehmensübersichten",
+          "translations": {
+            "English": "digital transformation",
+            "Spanish": "transformación digital",
+            "French": "transformation numérique",
+            "Italian": "trasformazione digitale",
+            "Japanese": "デジタルトランスフォーメーション"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "niedrige Latenz",
+          "context": "COLT-Netzwerkkapazität, kommerzielle Angebote",
+          "translations": {
+            "English": "low latency",
+            "Spanish": "baja latencia",
+            "French": "faible latence",
+            "Italian": "bassa latenza",
+            "Japanese": "低遅延"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Rechenzentrum",
+          "context": "COLT-Netzwerk, kommerzielle Angebote und Unternehmensübersichten",
+          "translations": {
+            "English": "data center",
+            "Spanish": "centro de datos",
+            "French": "centre de données",
+            "Italian": "data center",
+            "Japanese": "データセンター"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Netto-Null",
+          "context": "Nachhaltigkeitsabschnitt, kommerzielle Unternehmensübersichten",
+          "translations": {
+            "English": "net zero",
+            "Spanish": "emisiones netas cero",
+            "French": "zéro émission nette",
+            "Italian": "zero emissioni nette",
+            "Japanese": "ネットゼロ"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "globale Präsenz",
+          "context": "Kommerzielle Unternehmensübersichten",
+          "translations": {
+            "English": "global presence",
+            "Spanish": "presencia global",
+            "French": "présence mondiale",
+            "Italian": "presenza globale",
+            "Japanese": "グローバルプレゼンス"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": [
+        "COLT",
+        "Colt Technology Services",
+        "SLA",
+        "RFP",
+        "PO",
+        "MSA",
+        "NaaS",
+        "SD-WAN",
+        "SASE",
+        "WAN",
+        "PoP",
+        "NPS",
+        "Gbps",
+        "Dark Fibre",
+        "IQ Network",
+        "BT",
+        "BT Radianz",
+        "GTT",
+        "Vodafone",
+        "Tata Communications",
+        "AT&T",
+        "Verizon",
+        "Orange",
+        "Equinix",
+        "Zayo",
+        "Ethernet"
+      ]
+    }
+  }
+}

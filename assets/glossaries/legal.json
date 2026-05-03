@@ -1,0 +1,755 @@
+{
+  "domain": "legal",
+  "glossary": {
+    "English": {
+      "terms": [
+        {
+          "source_term": "force majeure",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "fuerza mayor",
+            "French": "force majeure",
+            "Italian": "forza maggiore",
+            "Japanese": "不可抗力",
+            "German": "höhere Gewalt"
+          },
+          "usage_notes": "Always preserve in legal context"
+        },
+        {
+          "source_term": "indemnification",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "indemnización",
+            "French": "indemnisation",
+            "Italian": "indennizzo",
+            "Japanese": "補償",
+            "German": "Schadloshaltung"
+          },
+          "usage_notes": "Core legal term; use specified translation only"
+        },
+        {
+          "source_term": "liquidated damages",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "daños y perjuicios liquidados",
+            "French": "dommages-intérêts forfaitaires",
+            "Italian": "penale contrattuale",
+            "Japanese": "損害賠償額の予定",
+            "German": "pauschalierter Schadensersatz"
+          },
+          "usage_notes": "Use pre-agreed translation; do not paraphrase"
+        },
+        {
+          "source_term": "governing law",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "ley aplicable",
+            "French": "loi applicable",
+            "Italian": "legge applicabile",
+            "Japanese": "準拠法",
+            "German": "anwendbares Recht"
+          },
+          "usage_notes": "Standard contract clause header"
+        },
+        {
+          "source_term": "jurisdiction",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "jurisdicción",
+            "French": "juridiction",
+            "Italian": "giurisdizione",
+            "Japanese": "管轄裁判所",
+            "German": "Gerichtsstand"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "intellectual property",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "propiedad intelectual",
+            "French": "propriété intellectuelle",
+            "Italian": "proprietà intellettuale",
+            "Japanese": "知的財産",
+            "German": "geistiges Eigentum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "confidentiality",
+          "context": "Legal contracts, NDAs",
+          "translations": {
+            "Spanish": "confidencialidad",
+            "French": "confidentialité",
+            "Italian": "riservatezza",
+            "Japanese": "機密性",
+            "German": "Vertraulichkeit"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "arbitration",
+          "context": "Dispute resolution clauses",
+          "translations": {
+            "Spanish": "arbitraje",
+            "French": "arbitrage",
+            "Italian": "arbitrato",
+            "Japanese": "仲裁",
+            "German": "Schiedsverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "warranty",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "garantía",
+            "French": "garantie",
+            "Italian": "garanzia",
+            "Japanese": "保証",
+            "German": "Gewährleistung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "liability",
+          "context": "Legal contracts",
+          "translations": {
+            "Spanish": "responsabilidad",
+            "French": "responsabilité",
+            "Italian": "responsabilità",
+            "Japanese": "責任",
+            "German": "Haftung"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    },
+    "Spanish": {
+      "terms": [
+        {
+          "source_term": "fuerza mayor",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "force majeure",
+            "French": "force majeure",
+            "Italian": "forza maggiore",
+            "Japanese": "不可抗力",
+            "German": "höhere Gewalt"
+          },
+          "usage_notes": "Preservar siempre en contexto legal"
+        },
+        {
+          "source_term": "indemnización",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "indemnification",
+            "French": "indemnisation",
+            "Italian": "indennizzo",
+            "Japanese": "補償",
+            "German": "Schadloshaltung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "daños y perjuicios liquidados",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "liquidated damages",
+            "French": "dommages-intérêts forfaitaires",
+            "Italian": "penale contrattuale",
+            "Japanese": "損害賠償額の予定",
+            "German": "pauschalierter Schadensersatz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "ley aplicable",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "governing law",
+            "French": "loi applicable",
+            "Italian": "legge applicabile",
+            "Japanese": "準拠法",
+            "German": "anwendbares Recht"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "jurisdicción",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "jurisdiction",
+            "French": "juridiction",
+            "Italian": "giurisdizione",
+            "Japanese": "管轄裁判所",
+            "German": "Gerichtsstand"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "propiedad intelectual",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "intellectual property",
+            "French": "propriété intellectuelle",
+            "Italian": "proprietà intellettuale",
+            "Japanese": "知的財産",
+            "German": "geistiges Eigentum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "confidencialidad",
+          "context": "Contratos legales, NDAs",
+          "translations": {
+            "English": "confidentiality",
+            "French": "confidentialité",
+            "Italian": "riservatezza",
+            "Japanese": "機密性",
+            "German": "Vertraulichkeit"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "arbitraje",
+          "context": "Cláusulas de resolución de disputas",
+          "translations": {
+            "English": "arbitration",
+            "French": "arbitrage",
+            "Italian": "arbitrato",
+            "Japanese": "仲裁",
+            "German": "Schiedsverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "garantía",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "warranty",
+            "French": "garantie",
+            "Italian": "garanzia",
+            "Japanese": "保証",
+            "German": "Gewährleistung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "responsabilidad",
+          "context": "Contratos legales",
+          "translations": {
+            "English": "liability",
+            "French": "responsabilité",
+            "Italian": "responsabilità",
+            "Japanese": "責任",
+            "German": "Haftung"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    },
+    "French": {
+      "terms": [
+        {
+          "source_term": "force majeure",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "force majeure",
+            "Spanish": "fuerza mayor",
+            "Italian": "forza maggiore",
+            "Japanese": "不可抗力",
+            "German": "höhere Gewalt"
+          },
+          "usage_notes": "Toujours préserver dans le contexte juridique"
+        },
+        {
+          "source_term": "indemnisation",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "indemnification",
+            "Spanish": "indemnización",
+            "Italian": "indennizzo",
+            "Japanese": "補償",
+            "German": "Schadloshaltung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "dommages-intérêts forfaitaires",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "liquidated damages",
+            "Spanish": "daños y perjuicios liquidados",
+            "Italian": "penale contrattuale",
+            "Japanese": "損害賠償額の予定",
+            "German": "pauschalierter Schadensersatz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "loi applicable",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "governing law",
+            "Spanish": "ley aplicable",
+            "Italian": "legge applicabile",
+            "Japanese": "準拠法",
+            "German": "anwendbares Recht"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "juridiction",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "jurisdiction",
+            "Spanish": "jurisdicción",
+            "Italian": "giurisdizione",
+            "Japanese": "管轄裁判所",
+            "German": "Gerichtsstand"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "propriété intellectuelle",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "intellectual property",
+            "Spanish": "propiedad intelectual",
+            "Italian": "proprietà intellettuale",
+            "Japanese": "知的財産",
+            "German": "geistiges Eigentum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "confidentialité",
+          "context": "Contrats juridiques, NDAs",
+          "translations": {
+            "English": "confidentiality",
+            "Spanish": "confidencialidad",
+            "Italian": "riservatezza",
+            "Japanese": "機密性",
+            "German": "Vertraulichkeit"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "arbitrage",
+          "context": "Clauses de résolution des litiges",
+          "translations": {
+            "English": "arbitration",
+            "Spanish": "arbitraje",
+            "Italian": "arbitrato",
+            "Japanese": "仲裁",
+            "German": "Schiedsverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "garantie",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "warranty",
+            "Spanish": "garantía",
+            "Italian": "garanzia",
+            "Japanese": "保証",
+            "German": "Gewährleistung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "responsabilité",
+          "context": "Contrats juridiques",
+          "translations": {
+            "English": "liability",
+            "Spanish": "responsabilidad",
+            "Italian": "responsabilità",
+            "Japanese": "責任",
+            "German": "Haftung"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    },
+    "Italian": {
+      "terms": [
+        {
+          "source_term": "forza maggiore",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "force majeure",
+            "Spanish": "fuerza mayor",
+            "French": "force majeure",
+            "Japanese": "不可抗力",
+            "German": "höhere Gewalt"
+          },
+          "usage_notes": "Preservare sempre nel contesto legale"
+        },
+        {
+          "source_term": "indennizzo",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "indemnification",
+            "Spanish": "indemnización",
+            "French": "indemnisation",
+            "Japanese": "補償",
+            "German": "Schadloshaltung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "penale contrattuale",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "liquidated damages",
+            "Spanish": "daños y perjuicios liquidados",
+            "French": "dommages-intérêts forfaitaires",
+            "Japanese": "損害賠償額の予定",
+            "German": "pauschalierter Schadensersatz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "legge applicabile",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "governing law",
+            "Spanish": "ley aplicable",
+            "French": "loi applicable",
+            "Japanese": "準拠法",
+            "German": "anwendbares Recht"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "giurisdizione",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "jurisdiction",
+            "Spanish": "jurisdicción",
+            "French": "juridiction",
+            "Japanese": "管轄裁判所",
+            "German": "Gerichtsstand"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "proprietà intellettuale",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "intellectual property",
+            "Spanish": "propiedad intelectual",
+            "French": "propriété intellectuelle",
+            "Japanese": "知的財産",
+            "German": "geistiges Eigentum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "riservatezza",
+          "context": "Contratti legali, NDAs",
+          "translations": {
+            "English": "confidentiality",
+            "Spanish": "confidencialidad",
+            "French": "confidentialité",
+            "Japanese": "機密性",
+            "German": "Vertraulichkeit"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "arbitrato",
+          "context": "Clausole di risoluzione delle controversie",
+          "translations": {
+            "English": "arbitration",
+            "Spanish": "arbitraje",
+            "French": "arbitrage",
+            "Japanese": "仲裁",
+            "German": "Schiedsverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "garanzia",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "warranty",
+            "Spanish": "garantía",
+            "French": "garantie",
+            "Japanese": "保証",
+            "German": "Gewährleistung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "responsabilità",
+          "context": "Contratti legali",
+          "translations": {
+            "English": "liability",
+            "Spanish": "responsabilidad",
+            "French": "responsabilité",
+            "Japanese": "責任",
+            "German": "Haftung"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    },
+    "Japanese": {
+      "terms": [
+        {
+          "source_term": "不可抗力",
+          "context": "法的契約",
+          "translations": {
+            "English": "force majeure",
+            "Spanish": "fuerza mayor",
+            "French": "force majeure",
+            "Italian": "forza maggiore",
+            "German": "höhere Gewalt"
+          },
+          "usage_notes": "法的文脈では常に保持する"
+        },
+        {
+          "source_term": "補償",
+          "context": "法的契約",
+          "translations": {
+            "English": "indemnification",
+            "Spanish": "indemnización",
+            "French": "indemnisation",
+            "Italian": "indennizzo",
+            "German": "Schadloshaltung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "損害賠償額の予定",
+          "context": "法的契約",
+          "translations": {
+            "English": "liquidated damages",
+            "Spanish": "daños y perjuicios liquidados",
+            "French": "dommages-intérêts forfaitaires",
+            "Italian": "penale contrattuale",
+            "German": "pauschalierter Schadensersatz"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "準拠法",
+          "context": "法的契約",
+          "translations": {
+            "English": "governing law",
+            "Spanish": "ley aplicable",
+            "French": "loi applicable",
+            "Italian": "legge applicabile",
+            "German": "anwendbares Recht"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "管轄裁判所",
+          "context": "法的契約",
+          "translations": {
+            "English": "jurisdiction",
+            "Spanish": "jurisdicción",
+            "French": "juridiction",
+            "Italian": "giurisdizione",
+            "German": "Gerichtsstand"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "知的財産",
+          "context": "法的契約",
+          "translations": {
+            "English": "intellectual property",
+            "Spanish": "propiedad intelectual",
+            "French": "propriété intellectuelle",
+            "Italian": "proprietà intellettuale",
+            "German": "geistiges Eigentum"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "機密性",
+          "context": "法的契約、NDA",
+          "translations": {
+            "English": "confidentiality",
+            "Spanish": "confidencialidad",
+            "French": "confidentialité",
+            "Italian": "riservatezza",
+            "German": "Vertraulichkeit"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "仲裁",
+          "context": "紛争解決条項",
+          "translations": {
+            "English": "arbitration",
+            "Spanish": "arbitraje",
+            "French": "arbitrage",
+            "Italian": "arbitrato",
+            "German": "Schiedsverfahren"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "保証",
+          "context": "法的契約",
+          "translations": {
+            "English": "warranty",
+            "Spanish": "garantía",
+            "French": "garantie",
+            "Italian": "garanzia",
+            "German": "Gewährleistung"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "責任",
+          "context": "法的契約",
+          "translations": {
+            "English": "liability",
+            "Spanish": "responsabilidad",
+            "French": "responsabilité",
+            "Italian": "responsabilità",
+            "German": "Haftung"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    },
+    "German": {
+      "terms": [
+        {
+          "source_term": "höhere Gewalt",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "force majeure",
+            "Spanish": "fuerza mayor",
+            "French": "force majeure",
+            "Italian": "forza maggiore",
+            "Japanese": "不可抗力"
+          },
+          "usage_notes": "Immer im rechtlichen Kontext beibehalten"
+        },
+        {
+          "source_term": "Schadloshaltung",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "indemnification",
+            "Spanish": "indemnización",
+            "French": "indemnisation",
+            "Italian": "indennizzo",
+            "Japanese": "補償"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "pauschalierter Schadensersatz",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "liquidated damages",
+            "Spanish": "daños y perjuicios liquidados",
+            "French": "dommages-intérêts forfaitaires",
+            "Italian": "penale contrattuale",
+            "Japanese": "損害賠償額の予定"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "anwendbares Recht",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "governing law",
+            "Spanish": "ley aplicable",
+            "French": "loi applicable",
+            "Italian": "legge applicabile",
+            "Japanese": "準拠法"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Gerichtsstand",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "jurisdiction",
+            "Spanish": "jurisdicción",
+            "French": "juridiction",
+            "Italian": "giurisdizione",
+            "Japanese": "管轄裁判所"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "geistiges Eigentum",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "intellectual property",
+            "Spanish": "propiedad intelectual",
+            "French": "propriété intellectuelle",
+            "Italian": "proprietà intellettuale",
+            "Japanese": "知的財産"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Vertraulichkeit",
+          "context": "Rechtsverträge, NDAs",
+          "translations": {
+            "English": "confidentiality",
+            "Spanish": "confidencialidad",
+            "French": "confidentialité",
+            "Italian": "riservatezza",
+            "Japanese": "機密性"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Schiedsverfahren",
+          "context": "Streitbeilegungsklauseln",
+          "translations": {
+            "English": "arbitration",
+            "Spanish": "arbitraje",
+            "French": "arbitrage",
+            "Italian": "arbitrato",
+            "Japanese": "仲裁"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Gewährleistung",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "warranty",
+            "Spanish": "garantía",
+            "French": "garantie",
+            "Italian": "garanzia",
+            "Japanese": "保証"
+          },
+          "usage_notes": null
+        },
+        {
+          "source_term": "Haftung",
+          "context": "Rechtsverträge",
+          "translations": {
+            "English": "liability",
+            "Spanish": "responsabilidad",
+            "French": "responsabilité",
+            "Italian": "responsabilità",
+            "Japanese": "責任"
+          },
+          "usage_notes": null
+        }
+      ],
+      "preserve_as_is": ["GDPR", "ICC", "UNCITRAL", "COLT", "NDA", "SLA", "ISDA", "LIBOR", "EURIBOR"]
+    }
+  }
+}

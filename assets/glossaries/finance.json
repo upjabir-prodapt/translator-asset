@@ -1,0 +1,89 @@
+{
+  "domain": "finance",
+  "glossary": {
+    "English": {
+      "terms": [
+        { "source_term": "capital markets", "context": "Financial statements, reports", "translations": { "Spanish": "mercados de capitales", "French": "marchés des capitaux", "Italian": "mercati dei capitali", "Japanese": "資本市場", "German": "Kapitalmärkte" }, "usage_notes": null },
+        { "source_term": "market data", "context": "Financial reports, trading documents", "translations": { "Spanish": "datos de mercado", "French": "données de marché", "Italian": "dati di mercato", "Japanese": "市場データ", "German": "Marktdaten" }, "usage_notes": null },
+        { "source_term": "trading platform", "context": "Capital markets financial documents", "translations": { "Spanish": "plataforma de negociación", "French": "plateforme de trading", "Italian": "piattaforma di trading", "Japanese": "取引プラットフォーム", "German": "Handelsplattform" }, "usage_notes": null },
+        { "source_term": "clearing and settlement", "context": "Securities trading financial documents", "translations": { "Spanish": "compensación y liquidación", "French": "compensation et règlement", "Italian": "compensazione e regolamento", "Japanese": "清算と決済", "German": "Clearing und Abwicklung" }, "usage_notes": null },
+        { "source_term": "financial services", "context": "Financial reports, invoices", "translations": { "Spanish": "servicios financieros", "French": "services financiers", "Italian": "servizi finanziari", "Japanese": "金融サービス", "German": "Finanzdienstleistungen" }, "usage_notes": null },
+        { "source_term": "accounts payable", "context": "Financial statements, accounting reports", "translations": { "Spanish": "cuentas por pagar", "French": "comptes fournisseurs", "Italian": "debiti verso fornitori", "Japanese": "買掛金", "German": "Verbindlichkeiten" }, "usage_notes": null },
+        { "source_term": "accounts receivable", "context": "Financial statements, accounting reports", "translations": { "Spanish": "cuentas por cobrar", "French": "comptes clients", "Italian": "crediti verso clienti", "Japanese": "売掛金", "German": "Forderungen" }, "usage_notes": null },
+        { "source_term": "profit and loss", "context": "Financial statements", "translations": { "Spanish": "pérdidas y ganancias", "French": "compte de résultat", "Italian": "conto profitti e perdite", "Japanese": "損益", "German": "Gewinn und Verlust" }, "usage_notes": "P&L abbreviation must be kept as-is" },
+        { "source_term": "balance sheet", "context": "Financial statements", "translations": { "Spanish": "balance general", "French": "bilan comptable", "Italian": "stato patrimoniale", "Japanese": "貸借対照表", "German": "Bilanz" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    },
+    "Spanish": {
+      "terms": [
+        { "source_term": "mercados de capitales", "context": "Estados financieros, informes", "translations": { "English": "capital markets", "French": "marchés des capitaux", "Italian": "mercati dei capitali", "Japanese": "資本市場", "German": "Kapitalmärkte" }, "usage_notes": null },
+        { "source_term": "datos de mercado", "context": "Informes financieros, documentos de trading", "translations": { "English": "market data", "French": "données de marché", "Italian": "dati di mercato", "Japanese": "市場データ", "German": "Marktdaten" }, "usage_notes": null },
+        { "source_term": "plataforma de negociación", "context": "Documentos financieros de mercados de capitales", "translations": { "English": "trading platform", "French": "plateforme de trading", "Italian": "piattaforma di trading", "Japanese": "取引プラットフォーム", "German": "Handelsplattform" }, "usage_notes": null },
+        { "source_term": "compensación y liquidación", "context": "Documentos financieros de valores", "translations": { "English": "clearing and settlement", "French": "compensation et règlement", "Italian": "compensazione e regolamento", "Japanese": "清算と決済", "German": "Clearing und Abwicklung" }, "usage_notes": null },
+        { "source_term": "servicios financieros", "context": "Informes financieros, facturas", "translations": { "English": "financial services", "French": "services financiers", "Italian": "servizi finanziari", "Japanese": "金融サービス", "German": "Finanzdienstleistungen" }, "usage_notes": null },
+        { "source_term": "cuentas por pagar", "context": "Estados financieros, informes contables", "translations": { "English": "accounts payable", "French": "comptes fournisseurs", "Italian": "debiti verso fornitori", "Japanese": "買掛金", "German": "Verbindlichkeiten" }, "usage_notes": null },
+        { "source_term": "cuentas por cobrar", "context": "Estados financieros, informes contables", "translations": { "English": "accounts receivable", "French": "comptes clients", "Italian": "crediti verso clienti", "Japanese": "売掛金", "German": "Forderungen" }, "usage_notes": null },
+        { "source_term": "pérdidas y ganancias", "context": "Estados financieros", "translations": { "English": "profit and loss", "French": "compte de résultat", "Italian": "conto profitti e perdite", "Japanese": "損益", "German": "Gewinn und Verlust" }, "usage_notes": null },
+        { "source_term": "balance general", "context": "Estados financieros", "translations": { "English": "balance sheet", "French": "bilan comptable", "Italian": "stato patrimoniale", "Japanese": "貸借対照表", "German": "Bilanz" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    },
+    "French": {
+      "terms": [
+        { "source_term": "marchés des capitaux", "context": "États financiers, rapports", "translations": { "English": "capital markets", "Spanish": "mercados de capitales", "Italian": "mercati dei capitali", "Japanese": "資本市場", "German": "Kapitalmärkte" }, "usage_notes": null },
+        { "source_term": "données de marché", "context": "Rapports financiers, documents de trading", "translations": { "English": "market data", "Spanish": "datos de mercado", "Italian": "dati di mercato", "Japanese": "市場データ", "German": "Marktdaten" }, "usage_notes": null },
+        { "source_term": "plateforme de trading", "context": "Documents financiers des marchés de capitaux", "translations": { "English": "trading platform", "Spanish": "plataforma de negociación", "Italian": "piattaforma di trading", "Japanese": "取引プラットフォーム", "German": "Handelsplattform" }, "usage_notes": null },
+        { "source_term": "compensation et règlement", "context": "Documents financiers sur les titres", "translations": { "English": "clearing and settlement", "Spanish": "compensación y liquidación", "Italian": "compensazione e regolamento", "Japanese": "清算と決済", "German": "Clearing und Abwicklung" }, "usage_notes": null },
+        { "source_term": "services financiers", "context": "Rapports financiers, factures", "translations": { "English": "financial services", "Spanish": "servicios financieros", "Italian": "servizi finanziari", "Japanese": "金融サービス", "German": "Finanzdienstleistungen" }, "usage_notes": null },
+        { "source_term": "comptes fournisseurs", "context": "États financiers, rapports comptables", "translations": { "English": "accounts payable", "Spanish": "cuentas por pagar", "Italian": "debiti verso fornitori", "Japanese": "買掛金", "German": "Verbindlichkeiten" }, "usage_notes": null },
+        { "source_term": "comptes clients", "context": "États financiers, rapports comptables", "translations": { "English": "accounts receivable", "Spanish": "cuentas por cobrar", "Italian": "crediti verso clienti", "Japanese": "売掛金", "German": "Forderungen" }, "usage_notes": null },
+        { "source_term": "compte de résultat", "context": "États financiers", "translations": { "English": "profit and loss", "Spanish": "pérdidas y ganancias", "Italian": "conto profitti e perdite", "Japanese": "損益", "German": "Gewinn und Verlust" }, "usage_notes": null },
+        { "source_term": "bilan comptable", "context": "États financiers", "translations": { "English": "balance sheet", "Spanish": "balance general", "Italian": "stato patrimoniale", "Japanese": "貸借対照表", "German": "Bilanz" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    },
+    "Italian": {
+      "terms": [
+        { "source_term": "mercati dei capitali", "context": "Bilanci, report finanziari", "translations": { "English": "capital markets", "Spanish": "mercados de capitales", "French": "marchés des capitaux", "Japanese": "資本市場", "German": "Kapitalmärkte" }, "usage_notes": null },
+        { "source_term": "dati di mercato", "context": "Report finanziari, documenti di trading", "translations": { "English": "market data", "Spanish": "datos de mercado", "French": "données de marché", "Japanese": "市場データ", "German": "Marktdaten" }, "usage_notes": null },
+        { "source_term": "piattaforma di trading", "context": "Documenti finanziari dei mercati dei capitali", "translations": { "English": "trading platform", "Spanish": "plataforma de negociación", "French": "plateforme de trading", "Japanese": "取引プラットフォーム", "German": "Handelsplattform" }, "usage_notes": null },
+        { "source_term": "compensazione e regolamento", "context": "Documenti finanziari sui titoli", "translations": { "English": "clearing and settlement", "Spanish": "compensación y liquidación", "French": "compensation et règlement", "Japanese": "清算と決済", "German": "Clearing und Abwicklung" }, "usage_notes": null },
+        { "source_term": "servizi finanziari", "context": "Report finanziari, fatture", "translations": { "English": "financial services", "Spanish": "servicios financieros", "French": "services financiers", "Japanese": "金融サービス", "German": "Finanzdienstleistungen" }, "usage_notes": null },
+        { "source_term": "debiti verso fornitori", "context": "Bilanci, report contabili", "translations": { "English": "accounts payable", "Spanish": "cuentas por pagar", "French": "comptes fournisseurs", "Japanese": "買掛金", "German": "Verbindlichkeiten" }, "usage_notes": null },
+        { "source_term": "crediti verso clienti", "context": "Bilanci, report contabili", "translations": { "English": "accounts receivable", "Spanish": "cuentas por cobrar", "French": "comptes clients", "Japanese": "売掛金", "German": "Forderungen" }, "usage_notes": null },
+        { "source_term": "conto profitti e perdite", "context": "Bilanci", "translations": { "English": "profit and loss", "Spanish": "pérdidas y ganancias", "French": "compte de résultat", "Japanese": "損益", "German": "Gewinn und Verlust" }, "usage_notes": null },
+        { "source_term": "stato patrimoniale", "context": "Bilanci", "translations": { "English": "balance sheet", "Spanish": "balance general", "French": "bilan comptable", "Japanese": "貸借対照表", "German": "Bilanz" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    },
+    "Japanese": {
+      "terms": [
+        { "source_term": "資本市場", "context": "財務諸表、レポート", "translations": { "English": "capital markets", "Spanish": "mercados de capitales", "French": "marchés des capitaux", "Italian": "mercati dei capitali", "German": "Kapitalmärkte" }, "usage_notes": null },
+        { "source_term": "市場データ", "context": "財務レポート、取引文書", "translations": { "English": "market data", "Spanish": "datos de mercado", "French": "données de marché", "Italian": "dati di mercato", "German": "Marktdaten" }, "usage_notes": null },
+        { "source_term": "取引プラットフォーム", "context": "資本市場の財務文書", "translations": { "English": "trading platform", "Spanish": "plataforma de negociación", "French": "plateforme de trading", "Italian": "piattaforma di trading", "German": "Handelsplattform" }, "usage_notes": null },
+        { "source_term": "清算と決済", "context": "有価証券取引の財務文書", "translations": { "English": "clearing and settlement", "Spanish": "compensación y liquidación", "French": "compensation et règlement", "Italian": "compensazione e regolamento", "German": "Clearing und Abwicklung" }, "usage_notes": null },
+        { "source_term": "金融サービス", "context": "財務レポート、請求書", "translations": { "English": "financial services", "Spanish": "servicios financieros", "French": "services financiers", "Italian": "servizi finanziari", "German": "Finanzdienstleistungen" }, "usage_notes": null },
+        { "source_term": "買掛金", "context": "財務諸表、会計レポート", "translations": { "English": "accounts payable", "Spanish": "cuentas por pagar", "French": "comptes fournisseurs", "Italian": "debiti verso fornitori", "German": "Verbindlichkeiten" }, "usage_notes": null },
+        { "source_term": "売掛金", "context": "財務諸表、会計レポート", "translations": { "English": "accounts receivable", "Spanish": "cuentas por cobrar", "French": "comptes clients", "Italian": "crediti verso clienti", "German": "Forderungen" }, "usage_notes": null },
+        { "source_term": "損益", "context": "財務諸表", "translations": { "English": "profit and loss", "Spanish": "pérdidas y ganancias", "French": "compte de résultat", "Italian": "conto profitti e perdite", "German": "Gewinn und Verlust" }, "usage_notes": null },
+        { "source_term": "貸借対照表", "context": "財務諸表", "translations": { "English": "balance sheet", "Spanish": "balance general", "French": "bilan comptable", "Italian": "stato patrimoniale", "German": "Bilanz" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    },
+    "German": {
+      "terms": [
+        { "source_term": "Kapitalmärkte", "context": "Finanzberichte", "translations": { "English": "capital markets", "Spanish": "mercados de capitales", "French": "marchés des capitaux", "Italian": "mercati dei capitali", "Japanese": "資本市場" }, "usage_notes": null },
+        { "source_term": "Marktdaten", "context": "Finanzberichte, Handelsdokumente", "translations": { "English": "market data", "Spanish": "datos de mercado", "French": "données de marché", "Italian": "dati di mercato", "Japanese": "市場データ" }, "usage_notes": null },
+        { "source_term": "Handelsplattform", "context": "Finanzdokumente der Kapitalmärkte", "translations": { "English": "trading platform", "Spanish": "plataforma de negociación", "French": "plateforme de trading", "Italian": "piattaforma di trading", "Japanese": "取引プラットフォーム" }, "usage_notes": null },
+        { "source_term": "Clearing und Abwicklung", "context": "Finanzdokumente für Wertpapiere", "translations": { "English": "clearing and settlement", "Spanish": "compensación y liquidación", "French": "compensation et règlement", "Italian": "compensazione e regolamento", "Japanese": "清算と決済" }, "usage_notes": null },
+        { "source_term": "Finanzdienstleistungen", "context": "Finanzberichte, Rechnungen", "translations": { "English": "financial services", "Spanish": "servicios financieros", "French": "services financiers", "Italian": "servizi finanziari", "Japanese": "金融サービス" }, "usage_notes": null },
+        { "source_term": "Verbindlichkeiten", "context": "Finanzberichte, Buchhaltungsberichte", "translations": { "English": "accounts payable", "Spanish": "cuentas por pagar", "French": "comptes fournisseurs", "Italian": "debiti verso fornitori", "Japanese": "買掛金" }, "usage_notes": null },
+        { "source_term": "Forderungen", "context": "Finanzberichte, Buchhaltungsberichte", "translations": { "English": "accounts receivable", "Spanish": "cuentas por cobrar", "French": "comptes clients", "Italian": "crediti verso clienti", "Japanese": "売掛金" }, "usage_notes": null },
+        { "source_term": "Gewinn und Verlust", "context": "Finanzberichte", "translations": { "English": "profit and loss", "Spanish": "pérdidas y ganancias", "French": "compte de résultat", "Italian": "conto profitti e perdite", "Japanese": "損益" }, "usage_notes": null },
+        { "source_term": "Bilanz", "context": "Finanzberichte", "translations": { "English": "balance sheet", "Spanish": "balance general", "French": "bilan comptable", "Italian": "stato patrimoniale", "Japanese": "貸借対照表" }, "usage_notes": null }
+      ],
+      "preserve_as_is": ["COLT", "BT Radianz", "Bloomberg", "Interxion", "FIX", "SWIFT", "MiFID", "MiFID II", "ESMA", "FCA", "SEC", "FINRA", "NYSE", "NASDAQ", "LSE", "EURONEXT", "CME", "ICE", "P&L", "EBITDA", "VAT"]
+    }
+  }
+}

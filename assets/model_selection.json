@@ -1,0 +1,4322 @@
+[
+    {
+      "source_language": "English",
+      "target_language": "German",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Spanish",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "French",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Italian",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Japanese",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "English",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Spanish",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "French",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Italian",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Japanese",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "English",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "German",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "French",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Italian",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Japanese",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "English",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "German",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Spanish",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Italian",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Japanese",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "English",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "German",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Spanish",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "French",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Japanese",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "English",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "German",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Spanish",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "French",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Italian",
+      "domain": "Commercial",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "German",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Spanish",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "French",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Italian",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Japanese",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "English",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Spanish",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "French",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Italian",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Japanese",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "English",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "German",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "French",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Italian",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Japanese",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "English",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "German",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Spanish",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Italian",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Japanese",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "English",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "German",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Spanish",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "French",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Japanese",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "English",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "German",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Spanish",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "French",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Italian",
+      "domain": "Finance",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "German",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Spanish",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "French",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Italian",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Japanese",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "English",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Spanish",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "French",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Italian",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Japanese",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "English",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "German",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "French",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Italian",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Japanese",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "English",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "German",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Spanish",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Italian",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Japanese",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "English",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "German",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Spanish",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "French",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Japanese",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "English",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "German",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Spanish",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "French",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Italian",
+      "domain": "HR",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "German",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Spanish",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "French",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Italian",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "English",
+      "target_language": "Japanese",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "English",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Spanish",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "French",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Italian",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "German",
+      "target_language": "Japanese",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "English",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "German",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "French",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Italian",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Spanish",
+      "target_language": "Japanese",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "English",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "German",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Spanish",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Italian",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "French",
+      "target_language": "Japanese",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "English",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "German",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Spanish",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "French",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Italian",
+      "target_language": "Japanese",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "English",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "German",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Spanish",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "French",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    },
+    {
+      "source_language": "Japanese",
+      "target_language": "Italian",
+      "domain": "IT",
+      "model_chain": [
+        {
+          "priority": 1,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.85
+        },
+        {
+          "priority": 2,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.8
+        },
+        {
+          "priority": 3,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.75
+        },
+        {
+          "priority": 4,
+          "model_id": "gemini",
+          "type": "base",
+          "confidence_threshold": 0.7
+        }
+      ],
+      "ab_test_config": {
+        "enabled": true,
+        "variant_a": "gemini",
+        "variant_b": "gemini"
+      }
+    }
+  ]
